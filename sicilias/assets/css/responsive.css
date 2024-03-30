@@ -1,0 +1,1420 @@
+@media (max-width: 1600px) {
+    .header {
+        padding: 50px 0;
+    }
+
+    .logo img {
+        height: 55px;
+    }
+
+    .header_menu a {
+        font-size: 18px;
+    }
+
+    .title_60 {
+        font-size: 55px;
+    }
+
+    .section_padding {
+        padding: 110px 0;
+    }
+
+    .about .col {
+        padding: 0 60px;
+    }
+
+    .about .row {
+        margin: 0 -50px;
+    }
+
+    .description {
+        font-size: 19px;
+    }
+
+    .btn {
+        margin-top: 35px;
+        font-size: 19px;
+    }
+
+    .art {
+        padding-top: 110px;
+    }
+
+    .art .col {
+        padding: 0 50px;
+    }
+
+    .art .row {
+        margin: 0 -50px;
+    }
+
+    .art .picciolo {
+        font-size: 19px;
+        padding-top: 35px;
+    }
+
+    .art .title_60 {
+        padding-top: 13px;
+    }
+
+    .description {
+        margin-top: 20px;
+    }
+
+    .video {
+        padding-top: 140px;
+    }
+
+    .play img {
+        height: 260px;
+    }
+
+    .eat {
+        padding-top: 160px;
+        padding-bottom: 100px;
+    }
+
+    .eat .col {
+        padding: 0 50px;
+    }
+
+    .eat .row {
+        margin: 0 -50px;
+    }
+
+    .eat .shop_head {
+        margin-top: 40px;
+    }
+
+    .eat .bar_head {
+        margin-top: 40px;
+    }
+
+    .button {
+        margin-top: 40px;
+        font-size: 19px;
+    }
+
+    .blog {
+        padding-top: 100px;
+        padding-bottom: 140px;
+    }
+
+    .blog .image {
+        margin-top: 80px;
+    }
+
+    .blog .col {
+        padding: 0 15px;
+    }
+
+    .torneo {
+        font-size: 19px;
+    }
+
+    .points {
+        font-size: 36px;
+    }
+
+    .leggi {
+        font-size: 19px;
+        padding-left: 55px;
+        padding-top: 42px;
+    }
+
+    .spectacolo {
+        padding-top: 150px;
+    }
+
+    .spectacolo .col{
+        padding: 0 15px;
+    }
+
+    .line {
+        bottom: -12%;
+        height: 190px;
+    }
+
+    .unico {
+        padding-top: 45px;
+        padding-bottom: 180px;
+    }
+
+    .piace {
+        padding-top: 85px;
+        padding-bottom: 120px;
+    }
+
+    .contact {
+        font-size: 26px;
+    }
+
+    .phone {
+        padding-top: 38px;
+        font-size: 17px;
+    }
+
+    .phone a {
+        font-size: 18px;
+    }
+
+    .footer {
+        padding: 50px 0;
+    }
+
+    .disclaimer {
+        font-size: 17px;
+    }
+
+    .piace a {
+        padding-top: 13px;
+    }
+
+    .footer li {
+        font-size: 17px;
+    }
+    .about:after{
+        display: none;
+    }
+    .art:before{
+        display: none;
+    }
+    .art .art_color{
+        padding-top: 0;
+    }
+    .eat:before{
+        display: none;
+    }
+    .eat .eat_color{
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 1400px) {
+    .header {
+        padding: 45px 0;
+    }
+
+    .logo img {
+        height: 50px;
+    }
+
+    .header_menu a {
+        font-size: 17px;
+    }
+
+    .header_menu li {
+        padding-left: 48px;
+    }
+
+    .section_padding {
+        padding: 100px 0;
+    }
+
+    .about .col {
+        padding: 0 50px;
+    }
+
+    .about .row {
+        margin: 0 -40px;
+    }
+
+    .title_60 {
+        font-size: 50px;
+    }
+
+    .description {
+        font-size: 18px;
+    }
+
+    .btn {
+        margin-top: 33px;
+        font-size: 18px;
+    }
+
+    .art .picciolo {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .art {
+        padding-top: 100px;
+    }
+
+    .art .col {
+        padding: 0 40px;
+    }
+
+    .art .row {
+        margin: 0 -40px;
+    }
+
+    .art .title_60 {
+        padding-top: 10px;
+    }
+
+   
+    .video {
+        padding-top: 120px;
+    }
+
+    .play img {
+        height: 240px;
+    }
+
+    .eat {
+        padding-top: 140px;
+        padding-bottom: 90px;
+    }
+
+    .eat .col {
+        padding: 0 40px;
+    }
+
+    .eat .row {
+        margin: 0 -40px;
+    }
+
+    .blog {
+        padding-top: 90px;
+        padding-bottom: 130px;
+    }
+
+    .blog .col {
+        padding: 0 12px;
+    }
+
+    .blog .image {
+        margin-top: 75px;
+    }
+
+    .torneo {
+        font-size: 18px;
+        padding-top: 25px
+    }
+
+    .points {
+        font-size: 34px;
+    }
+
+    .leggi {
+        font-size: 18px;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .spectacolo {
+        padding-top: 130px;
+    }
+
+    .spectacolo .col{
+            padding: 0 12px;
+        }
+
+    .line {
+        bottom: -12%;
+        height: 170px;
+    }
+    .unico {
+        padding-top: 35px;
+        padding-bottom: 165px;
+    }
+    .piace {
+        padding-top: 80px;
+        padding-bottom: 110px;
+    }
+    .contact {
+        font-size: 24px;
+    }
+    .phone {
+        font-size: 16px;
+    }
+    .phone a {
+        font-size: 18px;
+    }
+    .contact_logo img{
+        height: 100px;
+    }
+    .footer {
+        padding: 40px 0;
+    }
+    .disclaimer {
+        font-size: 16px;
+    }
+    .piace a {
+        padding-top: 11px;
+    }
+    .footer li {
+        font-size: 16px;
+    }
+    .banner .image {
+        height: calc(90vh - 170px);
+    }
+    .banner_logo img {
+        height: 110px;
+        width: 340px;
+    }
+    
+}
+
+@media (max-width: 1200px) {
+    .header {
+        padding: 40px 0;
+    }
+    .header_menu a {
+        font-size: 16px;
+    }
+    .header_menu li {
+        padding-left: 40px;
+    }
+    .logo img {
+        height: 45px;
+    }
+
+    .banner_logo img {
+        height: 105px;
+        width: 300px;
+    }
+    .section_padding {
+        padding: 90px 0;
+    }
+    .description {
+        font-size: 17px;
+    }
+    .btn {
+        font-size: 17px;
+        margin-top: 30px;
+    }
+    .art {
+        padding-top: 70px;
+    }
+    .about .col {
+        padding: 0 40px;
+    }
+    .about .row {
+        margin: 0 -30px;
+    }
+    .title_60 {
+        font-size: 45px;
+    }
+
+    .art .col {
+        padding: 0 30px;
+    }
+    .art .row {
+        margin: 0 -30px;
+    }
+    .eat .col {
+        padding: 0 30px;
+    }
+    .eat .row {
+        margin: 0 -30px;
+    }
+    .art .picciolo {
+        font-size: 17px;
+        padding-top: 20px;
+    }
+    .button {
+        margin-top: 30px;
+        font-size: 17px;
+    }
+    .video {
+        padding-top: 100px;
+    }
+    .play img {
+        height: 200px;
+    }
+    .eat {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .blog {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .blog .image {
+        margin-top: 60px;
+    }
+    .torneo {
+        font-size: 17px;
+        padding-top: 20px;
+    }
+    .eat .bar_head {
+        margin-top: 20px;
+    }
+    .eat .shop_head {
+        margin-top: 20px;
+    }
+    .points {
+        font-size: 27px;
+    }
+    .leggi {
+        font-size: 17px;
+        padding-left: 50px;
+        padding-top: 30px;
+    }
+    .line {
+        bottom: -13%;
+        height: 150px;
+    }
+    .spectacolo {
+        padding-top: 120px;
+    }
+    .unico {
+        padding-top: 25px;
+        padding-bottom: 140px;
+    }
+    .blog .col {
+        padding: 0 10px;
+    }
+    .spectacolo .col {
+        padding: 0 10px;
+    }
+    .piace {
+        padding-top: 60px;
+        padding-bottom: 90px;
+    }
+    .contact_logo img {
+        height: 90px;
+    }
+    .contact {
+        font-size: 22px;
+    }
+    .phone {
+        font-size: 15px;
+    }
+    .phone a {
+        font-size: 17px;
+    }
+    .piace a {
+        padding-top: 8px;
+    }
+    .footer {
+        padding: 30px 0;
+    }
+    .disclaimer {
+        font-size: 15px;
+    }
+    .footer li {
+        font-size: 15px;
+    }
+    .banner .image {
+        height: calc(80vh - 170px);
+    }
+}
+
+@media (max-width: 1024px) {
+    .header {
+        padding: 30px 0;
+    }
+    .header_menu a {
+        font-size: 15px;
+    }
+    .header_menu li {
+        padding-left: 30px;
+    }
+    .logo img {
+        height: 42px;
+    }
+
+    .banner_logo img {
+        height: 90px;
+        width: 270px;
+    }
+    .section_padding {
+        padding: 70px 0;
+    }
+    .description {
+        font-size: 16px;
+    }
+    .btn {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .art {
+        padding-top: 60px;
+    }
+    .about .col {
+        padding: 0 30px;
+    }
+    .about .row {
+        margin: 0 -30px;
+    }
+    .title_60 {
+        font-size: 38px;
+    }
+
+    .art {
+        padding-top: 60px;
+    }
+    .art .col {
+        padding: 0 20px;
+    }
+    .art .row {
+        margin: 0 -20px;
+    }
+    .eat .col {
+        padding: 0 20px;
+    }
+    .eat .row {
+        margin: 0 -20px;
+    }
+    .art .picciolo {
+        font-size: 16px;
+        padding-top: 16px;
+    }
+    .button {
+        margin-top: 25px;
+        font-size: 17px;
+    }
+    .video {
+        padding-top: 80px;
+    }
+    .play img {
+        height: 170px;
+    }
+    .eat {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .blog {
+        padding-top: 70px;
+        padding-bottom: 80px;
+    }
+    .blog .image {
+        margin-top: 50px;
+    }
+    .torneo {
+        font-size: 16px;
+        padding-top: 18px;
+    }
+    .eat .bar_head {
+        margin-top: 16px;
+    }
+    .eat .shop_head {
+        margin-top: 16px;
+    }
+    .points {
+        font-size: 25px;
+    }
+    .leggi {
+        font-size: 16px;
+        padding-left: 45px;
+        padding-top: 23px;
+    }
+    .line {
+        bottom: -13%;
+        height: 125px;
+    }
+    .spectacolo {
+        padding-top: 100px;
+    }
+    .unico {
+        padding-top: 20px;
+        padding-bottom: 120px;
+    }
+    .blog .col {
+        padding: 0 8px;
+    }
+    .spectacolo .col {
+        padding: 0 8px;
+        margin-top: 20px;
+    }
+    .piace {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .contact_logo img {
+        height: 80px;
+    }
+    .contact {
+        font-size: 19px;
+    }
+    .phone {
+        font-size: 14px;
+    }
+    .phone a {
+        font-size: 16px;
+    }
+    .piace a {
+        padding-top: 8px;
+    }
+    .footer {
+        padding: 20px 0;
+    }
+    .disclaimer {
+        font-size: 13px;
+    }
+    .footer li {
+        font-size: 14px;
+    }
+    .banner .image {
+        height: calc(70vh - 170px);
+    }
+}
+
+@media (max-width: 900px) {
+    .c {
+        padding: 0 40px;
+    }
+    .header {
+        padding: 20px 0;
+    }
+    .header .col_30{
+        width: 50%;
+    }
+
+    .header img {
+        height: 40px;
+    }
+
+    .header_menu {
+        display: none;
+    }
+    .title_60 {
+        font-size: 30px;
+    }
+    .banner_logo img {
+        height: 80px;
+        width: 220px;
+    }
+
+    .section_padding {
+        padding: 50px 0;
+    }
+    .description {
+        font-size: 15px;
+    }
+    .btn {
+        font-size: 15px;
+        margin-top: 25px;
+    }
+    .about .col {
+        padding: 0 20px;
+    }
+    .about .row {
+        margin: 0 -20px;
+    }
+
+    .col_2 {
+        width: 100%;
+    }
+
+    .about .image {
+        margin-top: 35px;
+    }
+
+    .about:after {
+        content: "";
+        position: absolute;
+        background-color: #FFF0F3;
+        right: 0;
+        width: 25%;
+        height: 100%;
+        top: 0;
+    }
+
+    .art {
+        padding-top: 50px;
+    }
+
+    .art .picciolo {
+        font-size: 15px;
+        padding-top: 15px;
+    }
+    .button {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .video {
+        padding-top: 60px;
+    }
+    .play img {
+        height: 150px;
+    }
+    .eat {
+        padding-top: 70px;
+        padding-bottom: 60px;
+    }
+    .blog {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .blog .image {
+        margin-top: 40px;
+    }
+    .torneo {
+        font-size: 15px;
+        padding-top: 15px;
+    }
+    .eat .bar_head {
+        margin-top: 10px;
+    }
+    .eat .shop_head {
+        margin-top: 10px;
+    }
+    .eat .image{
+        margin-top: 30px;
+    }
+    .points {
+        font-size: 23px;
+    }
+    .leggi {
+        font-size: 15px;
+        padding-left: 40px;
+        padding-top: 20px;
+    }
+    .spectacolo {
+        padding-top: 80px;
+    }
+    .unico {
+        padding-top: 15px;
+        padding-bottom: 100px;
+    }
+
+    .blog .col_3 {
+        width: 100%;
+    }
+
+    .spectacolo .col_60 {
+        width: 100%;
+    }
+
+    .spectacolo .col_40 {
+        width: 100%;
+    }
+
+    .ice .image {
+        padding-top: 50%;
+    }
+
+    .piace {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .piace .col_3 {
+        width: 50%;
+    }
+
+    .piace .col {
+        margin-top: 20px;
+    }
+
+    .contact_logo img {
+        height: 75px;
+    }
+    .contact {
+        font-size: 18px;
+    }
+    .phone {
+        font-size: 13px;
+        padding-top: 20px;
+    }
+    .phone a {
+        font-size: 15px;
+    }
+    .piace a {
+        padding-top: 5px;
+    }
+    .piace .row{
+        padding-top: 50px;
+    }
+    .footer {
+        padding: 10px 0;
+    }
+    .disclaimer {
+        font-size: 12px;
+    }
+    .footer .cookiepolicy{
+        text-align: left;
+    }
+    .footer li {
+        font-size: 12px;
+    }
+    .art .art_color {
+        padding-top: 50px;
+    }
+    .eat .image {
+        margin-top: 50px;
+    }
+    .header .col_70{
+        text-align: right;
+    }
+    .banner .image {
+        height: calc(60vh - 170px);
+    }
+    .header .burger_menu{
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        padding:  20px 0;
+    }
+    .header .burger_lines{
+        position: absolute;
+        width: 35px;
+        height: 3px;
+        background-color: #1E1E23;
+    }
+    .header .burger_lines:before {
+        position: absolute;
+        width: 35px;
+        display: inline-block;
+        content: "";
+        top: 10px;
+        background-color: #1E1E23;
+        right: 0;
+        height: 100%;
+    }
+    .header .burger_lines:after {
+        position: absolute;
+        width: 35px;
+        display: inline-block;
+        content: "";
+        bottom: 10px;
+        background-color: #1E1E23;
+        right: 0;
+        height: 100%;
+    }
+    .col_70 {
+        width: 60%;
+        vertical-align: middle;
+    }
+    .header .col_30 {
+        width: 40%;
+    }
+    .open_menu .mobile-menu{
+        visibility: visible;
+        transform: translateY(0);
+    }
+    .mobile-menu {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #FFFFFF;
+        right: 0;
+        bottom: 0;
+        transition: all .5s;
+        z-index: 999;
+        overflow: auto;
+        visibility: hidden;
+        transform: translateY(-100%);
+        padding: 40px 0;
+    }
+    .mobile-menu img{
+        display: none;
+    }
+    .mobile-menu .burger_lines{
+        background-color: transparent;
+    }
+    .mobile-menu .burger_lines:before{
+        transform: rotate(-45deg);
+        top: 0;
+    }
+    .mobile-menu .burger_lines:after{
+        transform: rotate(45deg);
+        bottom: 0;
+    }
+    .header .menu a {
+        color: #1E1D23;
+        font-size: 20px;
+        display: inline-block;
+    }
+    .header .menu li:first-child{
+        padding-top: 0;
+    }
+    .header .menu li{
+        padding-top: 30px;
+    }
+    .mobile-menu .menu{
+        display: block;
+    }
+    .mobile-menu ul {
+        list-style-type: none;
+    }
+    .mobile-menu .col_70{
+        width: 100%;
+    }
+}
+
+@media (max-width: 740px) {
+    .c {
+        padding: 0 30px;
+    }
+    .header {
+        padding: 18px 0;
+    }
+    .header img {
+        height: 35px;
+    }
+
+    .title_60 {
+        font-size: 23px;
+    }
+    .banner_logo img {
+        height: 60px;
+        width: 140px;
+    }
+    .section_padding {
+        padding: 40px 0;
+    }
+    .description {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .btn {
+        font-size: 14px;
+        margin-top: 22px;
+        padding: 15px 40px;
+    }
+
+    .button {
+        font-size: 14px;
+        margin-top: 20px;
+        padding: 15px 40px;
+    }
+
+    .about .image {
+        margin-top: 32px;
+    }
+    .art {
+        padding-top: 40px;
+    }
+
+    .art .picciolo {
+        font-size: 14px;
+        padding-top: 14px;
+    }
+    .leggi:before{
+        width: 25px;
+    }
+    .video {
+        padding-top: 50px;
+    }
+    .play img {
+        height: 110px;
+    }
+    .eat {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .blog {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .blog .image {
+        margin-top: 30px;
+    }
+    .torneo {
+        font-size: 14px;
+        padding-top: 12px;
+    }
+    .eat .bar_head {
+        margin-top: 8px;
+    }
+    .eat .shop_head {
+        margin-top: 8px;
+    }
+    .eat .image{
+        margin-top: 20px;
+    }
+    .points {
+        font-size: 18px;
+    }
+    .leggi {
+        font-size: 14px;
+        padding-left: 30px;
+        padding-top: 10px;
+    }
+    .spectacolo {
+        padding-top: 70px;
+    }
+    .unico {
+        padding-top: 14px;
+        padding-bottom: 80px;
+    }
+
+    .piace {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .piace .col {
+        margin-top: 18px;
+    }
+
+    .contact_logo img {
+        height: 70px;
+    }
+    .contact {
+        font-size: 17px;
+    }
+    .phone {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    .phone a {
+        font-size: 14px;
+    }
+    .piace a {
+        padding-top: 5px;
+    }
+    .piace .row{
+        padding-top: 45px;
+    }
+    .footer {
+        padding: 10px 0;
+    }
+    .disclaimer {
+        font-size: 12px;
+    }
+    .footer .cookiepolicy{
+        text-align: left;
+    }
+    .footer li {
+        font-size: 12px;
+    }
+    .art .art_color {
+        padding-top: 30px;
+    }
+    .eat .image {
+        margin-top: 30px;
+    }
+    .banner .image {
+        height: calc(50vh - 170px);
+    }
+    .header .burger_lines:before {
+        width: 30px;
+    }
+    .header .burger_lines:after {
+        width: 30px;
+    }
+    .header .burger_lines {
+        width: 30px;
+    }
+}
+
+@media (max-width: 500px) {
+    .c {
+        padding: 0 30px;
+    }
+    .header {
+        padding: 16px 0;
+    }
+    .header img {
+        height: 30px;
+    }
+
+    .title_60 {
+        font-size: 20px;
+    }
+    .banner_logo img {
+        height: 55px;
+        width: 130px;
+    }
+    .section_padding {
+        padding: 30px 0;
+    }
+    .description {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .btn {
+        font-size: 13px;
+        margin-top: 20px;
+        padding: 13px 35px;
+    }
+
+    .button {
+        font-size: 14px;
+        margin-top: 20px;
+        padding: 13px 35px;
+    }
+
+    .about .image {
+        margin-top: 30px;
+    }
+    .art {
+        padding-top: 35px;
+    }
+
+    .art .picciolo {
+        font-size: 13px;
+        padding-top: 13px;
+    }
+    .leggi:before{
+        width: 20px;
+    }
+    .video {
+        padding-top: 40px;
+    }
+    .play img {
+        height: 60px;
+    }
+    .eat {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .blog {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .blog .image {
+        margin-top: 20px;
+    }
+    .torneo {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    .eat .bar_head {
+        margin-top: 8px;
+    }
+    .eat .shop_head {
+        margin-top: 8px;
+    }
+    .eat .image{
+        margin-top: 18px;
+    }
+    .points {
+        font-size: 17px;
+    }
+    .leggi {
+        font-size: 13px;
+        padding-left: 28px;
+        padding-top: 8px;
+    }
+    .spectacolo {
+        padding-top: 50px;
+    }
+    .unico {
+        padding-top: 13px;
+        padding-bottom: 60px;
+    }
+
+    .piace {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .piace .col {
+        margin-top: 15px;
+    }
+
+    .contact_logo img {
+        height: 60px;
+    }
+    .contact {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .phone {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .phone a {
+        font-size: 13px;
+    }
+    .piace .col_3 {
+        width: 100%;
+    }
+    .piace a {
+        padding-top: 5px;
+    }
+    .piace .row{
+        padding-top: 35px;
+    }
+    .footer {
+        padding: 10px 0;
+    }
+    .disclaimer {
+        font-size: 12px;
+    }
+    .footer .cookiepolicy{
+        text-align: left;
+    }
+    .footer li {
+        font-size: 12px;
+    }
+    .art .art_color {
+        padding-top: 20px;
+    }
+    .eat .image {
+        margin-top: 20px;
+    }
+    .banner .image {
+        height: calc(40vh - 170px);
+    }
+    .header .burger_lines:before {
+        width: 30px;
+    }
+    .header .burger_lines:after {
+        width: 30px;
+    }
+    .header .burger_lines {
+        width: 30px;
+    }
+    .header .burger_lines:before {
+        width: 25px;
+    }
+    .header .burger_lines:after {
+        width: 25px;
+    }
+    .header .burger_lines {
+        width: 25px;
+    }
+}
+
+@media (max-width: 350px) {
+    .c {
+        padding: 0 20px;
+    }
+    .header {
+        padding: 16px 0;
+    }
+    .header img {
+        height: 30px;
+    }
+
+    .title_60 {
+        font-size: 20px;
+    }
+    .banner_logo img {
+        height: 55px;
+        width: 130px;
+    }
+
+    .section_padding {
+        padding: 30px 0;
+    }
+    .description {
+        font-size: 13px;
+        margin-top: 12px;
+    }
+    .btn {
+        font-size: 13px;
+        margin-top: 20px;
+        padding: 13px 35px;
+    }
+
+    .button {
+        font-size: 14px;
+        margin-top: 20px;
+        padding: 13px 35px;
+    }
+
+    .about .image {
+        margin-top: 30px;
+    }
+    .art {
+        padding-top: 35px;
+    }
+
+    .art .picciolo {
+        font-size: 13px;
+        padding-top: 13px;
+    }
+    .leggi:before{
+        width: 20px;
+    }
+    .video {
+        padding-top: 40px;
+    }
+    .play img {
+        height: 60px;
+    }
+    .eat {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .blog {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .blog .image {
+        margin-top: 20px;
+    }
+    .torneo {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    .eat .bar_head {
+        margin-top: 8px;
+    }
+    .eat .shop_head {
+        margin-top: 8px;
+    }
+    .eat .image{
+        margin-top: 18px;
+    }
+    .points {
+        font-size: 17px;
+    }
+    .leggi {
+        font-size: 13px;
+        padding-left: 28px;
+        padding-top: 8px;
+    }
+    .spectacolo {
+        padding-top: 50px;
+    }
+    .unico {
+        padding-top: 13px;
+        padding-bottom: 60px;
+    }
+
+    .piace {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .piace .col {
+        margin-top: 15px;
+    }
+
+    .contact_logo img {
+        height: 60px;
+    }
+    .contact {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .phone {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+    .phone a {
+        font-size: 13px;
+    }
+    .piace .col_3 {
+        width: 100%;
+    }
+    .piace a {
+        padding-top: 5px;
+    }
+    .piace .row{
+        padding-top: 35px;
+    }
+    .footer {
+        padding: 10px 0;
+    }
+    .disclaimer {
+        font-size: 12px;
+    }
+    .footer .cookiepolicy{
+        text-align: left;
+    }
+    .footer li {
+        font-size: 12px;
+    }
+    .banner .image {
+        height: calc(40vh - 170px);
+    }
+    .header .burger_lines:before {
+        width: 25px;
+    }
+    .header .burger_lines:after {
+        width: 25px;
+    }
+    .header .burger_lines {
+        width: 25px;
+    }
+}
